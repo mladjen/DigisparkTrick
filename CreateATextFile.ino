@@ -6,7 +6,7 @@ void setup() {
     DigiKeyboard.println("cmd");                // searches for cmd and presses enter
     DigiKeyboard.delay(1000);                   // waits 1 second for cmd to open
     DigiKeyboard.println("cd Desktop");         // change directory to desktop
-    DigiKeyboard.println("ECHO dont leave your lappy unlocked silly  your lappy unlocked silly ;P > clickme.txt"); // your message here
+    DigiKeyboard.println("ECHO dont leave your lappy unlocked silly ;P > clickme.txt"); // your message here
 }
 void loop() {
 }
